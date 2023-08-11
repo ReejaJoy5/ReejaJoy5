@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ReejaJoy5
+- 👋 Hi, I’m @Reeja Joy
 - 👀 I’m interested in GitHub & CyberSecurity
 - 🌱 I’m currently learning CyberSecurity
 - 💞️ I’m looking to collaborate on many things
